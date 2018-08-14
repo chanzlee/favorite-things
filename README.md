@@ -1,4 +1,4 @@
-# _Favorite _
+# _Favorite Things_
 
 #### _Html/jQuery Exercise for Epicodus, 08.13.2018_
 
