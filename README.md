@@ -6,7 +6,7 @@
 
 ## Description
 
-_.this webpage captures user's inputs about favorite things, create a list of favorite things of using array in jQuery and present it on the bottom of the page._
+_This webpage captures user's inputs about favorite things, create a list of favorite things of using array in jQuery and present it on the bottom of the page._
 
 ## Setup/Installation Requirements
 
